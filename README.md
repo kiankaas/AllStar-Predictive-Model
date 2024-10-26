@@ -1,4 +1,4 @@
-### View the [project report](https://github.com/kiankaas/AllStar-Predictive-Model/blob/main/Report.pdf) for findings, results, and a general project overview.
+# View the [project report](https://github.com/kiankaas/AllStar-Predictive-Model/blob/main/Report.pdf) for findings, results, and a general project overview.
 
 ## Required Libraries
 - nba_api (https://github.com/swar/nba_api)
